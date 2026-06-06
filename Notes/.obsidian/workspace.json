@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "a3fe26a2cc8fa619",
+    "type": "split",
+    "children": [
+      {
+        "id": "018fae3129e8c918",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27af6c496b468496",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WAPT/Tools/WAPT_Tools_Masterlist.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "WAPT_Tools_Masterlist"
+            }
+          },
+          {
+            "id": "3dd62f344a1aca40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WAPT/Tools/WAPT_Tools_Masterlist.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "WAPT_Tools_Masterlist"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c68e36134ccd678f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fbb01016cb1e250",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e1876de622a70d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5e4800c493cd67eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "61fffe518e96f32a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 253.5
+  },
+  "right": {
+    "id": "d73d7888fdf50cd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a3f076045ddaf11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5a3c562d89f8b9d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linux_privEsc.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Linux_privEsc"
+            }
+          },
+          {
+            "id": "c9a2376fd34c740f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Linux_privEsc.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Linux_privEsc"
+            }
+          },
+          {
+            "id": "b3bb20673d4ff890",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d6380b5165ad4bc3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7594f696857cb509",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Linux_privEsc.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Linux_privEsc"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "27af6c496b468496",
+  "lastOpenFiles": [
+    "WAPT/Methodology/WAPT_Methodology.md",
+    "WAPT/OWASP_Top_10/A01- Broken Access Control/Vertical Privilege Escalation.md",
+    "WAPT/Tools/WAPT_Tools_Masterlist.md",
+    "WAPT/01_Web_Basics/Web_Architecture_&_HTTP_Core.md",
+    "WAPT/01_Web_Basics",
+    "Linux PrivEsc/Miss configured sudo.md",
+    "WAPT/OWASP_Top_10/A010– Server-Side Request Forgery (SSRF)",
+    "WAPT/OWASP_Top_10/A09– Security Logging and Monitoring Failures",
+    "WAPT/OWASP_Top_10/A08– Software and Data Integrity Failures",
+    "WAPT/OWASP_Top_10/A07 – Identification and Authentication Failures",
+    "WAPT/OWASP_Top_10/A06- – Vulnerable and Outdated Components",
+    "WAPT/OWASP_Top_10/A05– Security Misconfiguration",
+    "WAPT/OWASP_Top_10/A04- – Insecure Design",
+    "WAPT/OWASP_Top_10/A03 – Injection",
+    "WAPT/OWASP_Top_10/A02 – Cryptographic Failures",
+    "WAPT/OWASP_Top_10/Software or Data Integrity Failures.md",
+    "WAPT/OWASP_Top_10/Authentication Failures.md",
+    "WAPT/OWASP_Top_10/Security Logging and Alerting Failures.md",
+    "WAPT/OWASP_Top_10/Injection.md",
+    "WAPT/OWASP_Top_10/Cryptographic Failures.md",
+    "WAPT/OWASP_Top_10/Security Misconfiguration.md",
+    "WAPT/OWASP_Top_10/Software Supply Chain Failures.md",
+    "WAPT/OWASP_Top_10/Broken Access Control.md",
+    "Linux PrivEsc/Weak file permissions.md",
+    "Wnidows PrivEsc/Credentials Discovery.md",
+    "Wnidows PrivEsc/Vulnerable Software.md",
+    "Wnidows PrivEsc/Registry Exploits.md",
+    "Wnidows PrivEsc/Kernel Exploit.md",
+    "Wnidows PrivEsc/Missconfigured Services.md",
+    "Linux PrivEsc/Cronjobs.md",
+    "Linux PrivEsc/Miss using suid and sgid.md",
+    "Linux PrivEsc/Capabilities.md",
+    "Linux PrivEsc/Nfs.md",
+    "Linux PrivEsc/Kernel Exploits.md",
+    "Linux PrivEsc/Process Hijacking.md",
+    "Linux PrivEsc/Port Forwarding.md",
+    "Linux PrivEsc/capabilities.png"
+  ]
+}
