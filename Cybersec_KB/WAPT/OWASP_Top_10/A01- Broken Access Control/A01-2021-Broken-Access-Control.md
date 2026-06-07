@@ -1,5 +1,5 @@
 # 🏛️ OWASP A01:2021 - Broken Access Control (BAC)
-**Date:** 2026-06-07  
+  
 **Category:** Web Application Penetration Testing (WPT)  
 **Severity:** High to Critical 🔴  
 **Core Principle:** Never trust client-side input. Access control decisions must always be validated strictly on the server side.
@@ -69,4 +69,4 @@ Broken Access Control occurs when users can execute actions or access resources 
 ---
 ## 🔗 Reference Links & Labs
 * [PortSwigger BAC Labs](https://portswigger.net/web-security/access-control)
-* [Rana Khalil Guide Video](https://youtu.be/_jz5qFWhLcg)
+* 
