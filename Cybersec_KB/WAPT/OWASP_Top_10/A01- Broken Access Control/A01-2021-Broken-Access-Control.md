@@ -69,4 +69,4 @@ Broken Access Control occurs when users can execute actions or access resources 
 ---
 ## 🔗 Reference Links & Labs
 * [PortSwigger BAC Labs](https://portswigger.net/web-security/access-control)
-* 
+---
