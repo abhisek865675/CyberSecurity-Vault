@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersec_KB/Wnidows PrivEsc/Kernel Exploit.md",
+                "file": "Cybersec_KB/Linux PrivEsc/SSH Keys 🔑.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kernel Exploit"
+              "title": "SSH Keys 🔑"
             }
           }
         ]
@@ -181,13 +181,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e847ae4f2de9d03c",
+  "active": "ba2db0d2bb5fa866",
   "lastOpenFiles": [
+    "Cybersec_KB/Wnidows PrivEsc/Kernel Exploit.md",
     "Cybersec_KB/File_transfer_technique/Linux_to_Linux/📂File Transfer Techniques.md",
     "Cybersec_KB/File_transfer_technique/Windows_to_Windows",
     "Cybersec_KB/File_transfer_technique/Linux_to_Windows",
     "Cybersec_KB/File_transfer_technique/Linux_to_Linux",
-    "Cybersec_KB/Wnidows PrivEsc/Kernel Exploit.md",
     "Cybersec_KB/File_transfer_technique",
     "Cybersec_KB/Wnidows PrivEsc/Credentials Discovery.md",
     "Cybersec_KB/Wnidows PrivEsc/Auto Enum Scripts.md",
