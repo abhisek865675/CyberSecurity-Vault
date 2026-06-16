@@ -181,14 +181,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ba2db0d2bb5fa866",
+  "active": "e847ae4f2de9d03c",
   "lastOpenFiles": [
-    "File_transfer_technique/Linux_to_Linux/📂File Transfer Techniques.md",
-    "File_transfer_technique/Windows_to_Windows",
-    "File_transfer_technique/Linux_to_Windows",
-    "File_transfer_technique/Linux_to_Linux",
+    "Cybersec_KB/File_transfer_technique/Linux_to_Linux/📂File Transfer Techniques.md",
+    "Cybersec_KB/File_transfer_technique/Windows_to_Windows",
+    "Cybersec_KB/File_transfer_technique/Linux_to_Windows",
+    "Cybersec_KB/File_transfer_technique/Linux_to_Linux",
     "Cybersec_KB/Wnidows PrivEsc/Kernel Exploit.md",
-    "File_transfer_technique",
+    "Cybersec_KB/File_transfer_technique",
     "Cybersec_KB/Wnidows PrivEsc/Credentials Discovery.md",
     "Cybersec_KB/Wnidows PrivEsc/Auto Enum Scripts.md",
     "Cybersec_KB/Wnidows PrivEsc/Missconfigured Services.md",
