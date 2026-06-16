@@ -87,6 +87,7 @@ Agar key mangne par password maang rahi hai, toh **John The Ripper** ka use kare
 
 ```
  john --wordlist=/usr/share/wordlists/rockyou.txt root_key_hash
+ hashcat -m 22921 -a 0 root_key_hash /usr/share/wordlists/rockyou.txt root_key_hash
 ```
 
 ### 4. Gaining Root Access

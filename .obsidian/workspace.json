@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersec_KB/WAPT/Tools/WAPT_Tools_Masterlist.md",
+                "file": "Cybersec_KB/Linux PrivEsc/Auto Enum Scripts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WAPT_Tools_Masterlist"
+              "title": "Auto Enum Scripts"
             }
           }
         ]
@@ -183,6 +183,13 @@
   },
   "active": "ba2db0d2bb5fa866",
   "lastOpenFiles": [
+    "Cybersec_KB/Linux PrivEsc/Kernel Exploits.md",
+    "Cybersec_KB/Linux PrivEsc/Process Hijacking.md",
+    "Cybersec_KB/Linux PrivEsc/Port Forwarding.md",
+    "Cybersec_KB/Linux PrivEsc/Nfs.md",
+    "Cybersec_KB/Linux PrivEsc/User Groups.md",
+    "Cybersec_KB/Linux PrivEsc/SSH Keys 🔑.md",
+    "Cybersec_KB/WAPT/Tools/WAPT_Tools_Masterlist.md",
     "Cybersec_KB/WAPT/01_Web_Basics/Web_Architecture_&_HTTP_Core.md",
     "Cybersec_KB/WAPT/OWASP_Top_10/A01- Broken Access Control/A01-2021-Broken-Access-Control.md",
     "Cybersec_Writeups/NPT/11 Year of the Dog.md",
