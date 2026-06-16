@@ -13,13 +13,11 @@ Ye "King" hai. OSCP aur CTFs mein 90% log isi ka use karte hain.
     - `RED`: Isse check karna zaroori hai.
         
 - **Command:**
-    
-    Bash
-    
+
     ```
-    ./linpeas.sh
+     ./linpeas.sh
     ```
-    
+
 
 ---
 
@@ -48,7 +46,7 @@ Ye script specifically **Kernel Exploits** dhoondne ke liye banayi gayi hai.
 
 ---
 
-## 4. PPY (pspy) - Process Monitoring
+## 4. PSPY  (Process Monitoring)
 Ye script nahi, balki ek tool hai jo bina root permissions ke background mein chal rahe processes ko monitor karta hai.
 *   **Kyu use karein?** Agar koi **Cron Job** har 1 minute mein chal rahi hai par aapko `/etc/crontab` mein nahi dikh rahi, toh `pspy` use pakad lega.
 *   **Feature:** Ye real-time mein dikhata hai ki root kaunsi commands chala raha hai.

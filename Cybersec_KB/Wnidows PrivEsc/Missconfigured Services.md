@@ -118,3 +118,5 @@ While DLL (Dynamic Link Library) Hijacking is a recognized privilege escalation 
 - **The Paradox:** Needing administrative rights to uncover a pathway to gain administrative rights defeats the practical timeline of standalone privilege escalation loops.
     
 - **Alternative:** True execution without admin visibility relies heavily on complex binary reverse engineering to manually track search order configurations within codeblocks.
+
+---
