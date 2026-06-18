@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersec_KB/Linux PrivEsc/SSH Keys 🔑.md",
+                "file": "Cybersec_Writeups/CEH Extras/Bluetooth Attack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SSH Keys 🔑"
+              "title": "Bluetooth Attack"
             }
           }
         ]
@@ -183,6 +183,8 @@
   },
   "active": "ba2db0d2bb5fa866",
   "lastOpenFiles": [
+    "Cybersec_Writeups/CEH Extras/Wifi Attack.md",
+    "Cybersec_KB/Linux PrivEsc/SSH Keys 🔑.md",
     "Cybersec_KB/Wnidows PrivEsc/Kernel Exploit.md",
     "Cybersec_KB/File_transfer_technique/Linux_to_Linux/📂File Transfer Techniques.md",
     "Cybersec_KB/File_transfer_technique/Windows_to_Windows",
@@ -202,7 +204,6 @@
     "Cybersec_KB/Linux PrivEsc/Auto Enum Scripts.md",
     "Cybersec_KB/Linux PrivEsc/Kernel Exploits.md",
     "Cybersec_KB/Linux PrivEsc/Nfs.md",
-    "Cybersec_KB/Linux PrivEsc/SSH Keys 🔑.md",
     "Cybersec_KB/WAPT/Tools/WAPT_Tools_Masterlist.md",
     "Cybersec_KB/WAPT/01_Web_Basics/Web_Architecture_&_HTTP_Core.md",
     "Cybersec_KB/WAPT/OWASP_Top_10/A01- Broken Access Control/A01-2021-Broken-Access-Control.md",

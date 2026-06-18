@@ -30,7 +30,7 @@ Jab hamare paas system ka access (netcat shell) ho aur hum chahte hain ki hum SS
     
 2. **Target par Folder Setup (On Netcat Shell):** Target user ki home directory mein `.ssh` folder banayein:
     
-    Bash
+    
     
     ```
     mkdir -p ~/.ssh

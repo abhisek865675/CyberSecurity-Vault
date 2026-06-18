@@ -58,3 +58,6 @@ bluesnarfer -r 1-100 -C <channel> -b <bid>
 Pair request aegi
 
 Accept kro aur kaam khtm
+
+
+---
