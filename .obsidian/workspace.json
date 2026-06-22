@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersec_KB/File_transfer_technique/Windows_to_Windows/📑 Windows_to_Windows(File Transfer Arsenal).md",
+                "file": "Cybersec_KB/Wnidows PrivEsc/Registry Exploits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📑 Windows_to_Windows(File Transfer Arsenal)"
+              "title": "Registry Exploits"
             }
           }
         ]
@@ -181,11 +181,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e847ae4f2de9d03c",
+  "active": "a0f2f94a7fe4198f",
   "lastOpenFiles": [
+    "Cybersec_KB/File_transfer_technique/Windows_to_Windows/📑 Windows_to_Windows(File Transfer Arsenal).md",
     "Cybersec_KB/File_transfer_technique/Linux_to_Windows/📑 Linux to Windows(File Transfer Arsenal).md",
     "Cybersec_KB/File_transfer_technique/Linux_to_Linux/📂File Transfer Techniques.md",
-    "Cybersec_KB/File_transfer_technique/Windows_to_Windows/📑 Windows_to_Windows(File Transfer Arsenal).md",
     "Cybersec_Writeups/CEH Extras/Bluetooth Attack.md",
     "Cybersec_Writeups/CEH Extras/Wifi Attack.md",
     "Cybersec_KB/Linux PrivEsc/SSH Keys 🔑.md",
