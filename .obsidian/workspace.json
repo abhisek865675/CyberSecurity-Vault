@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersec_KB/Wnidows PrivEsc/Registry Exploits.md",
+                "file": "Cybersec_KB/Wnidows PrivEsc/Sheduled tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Registry Exploits"
+              "title": "Sheduled tasks"
             }
           }
         ]
@@ -183,6 +183,7 @@
   },
   "active": "a0f2f94a7fe4198f",
   "lastOpenFiles": [
+    "Cybersec_KB/Wnidows PrivEsc/Registry Exploits.md",
     "Cybersec_KB/File_transfer_technique/Windows_to_Windows/📑 Windows_to_Windows(File Transfer Arsenal).md",
     "Cybersec_KB/File_transfer_technique/Linux_to_Windows/📑 Linux to Windows(File Transfer Arsenal).md",
     "Cybersec_KB/File_transfer_technique/Linux_to_Linux/📂File Transfer Techniques.md",
@@ -214,7 +215,6 @@
     "Untitled.canvas",
     "Untitled.base",
     "2026-06-06.md",
-    "Notes/WAPT/OWASP_Top_10/A01- Broken Access Control/Vertical Privilege Escalation.md",
-    "Notes/WAPT/Methodology/WAPT_Methodology.md"
+    "Notes/WAPT/OWASP_Top_10/A01- Broken Access Control/Vertical Privilege Escalation.md"
   ]
 }
