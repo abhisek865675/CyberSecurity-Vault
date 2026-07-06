@@ -8,9 +8,6 @@ Welcome to the **Password Cracking** guide. In the System Hacking phase, once yo
 1. [Understanding Hashes & Salts](#-understanding-hashes--salts)
 2. [Types of Password Attacks](#-types-of-password-attacks)
 3. [Extracting Hashes (Where do they live?)](#-extracting-hashes-where-do-they-live)
-4. [Tool 1: John the Ripper (JtR)](#-tool-1-john-the-ripper-jtr)
-5. [Tool 2: Hashcat (The Speed King)](#-tool-2-hashcat-the-speed-king)
-6. [Cheat Sheet Summary](#-cheat-sheet-summary)
 
 ---
 

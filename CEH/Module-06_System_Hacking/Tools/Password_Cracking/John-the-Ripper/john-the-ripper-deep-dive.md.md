@@ -109,4 +109,6 @@ Cracking can take hours or even days. If you close your terminal, the process st
 - **Filter by user:**
     
     `john --users=root hashes.txt`
-    
+
+
+---
