@@ -181,8 +181,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "acd9254ef5182219",
+  "active": "e847ae4f2de9d03c",
   "lastOpenFiles": [
+    "Privilege_Escalation",
     "Blue.md",
     "CEH/Module-20-Cryptography/README.md",
     "Battery.md",
@@ -208,8 +209,6 @@
     "CEH/Module-01_Introduction to Ethical Hacking/Readme.md",
     "Container-&-Cloud-Native-Security/01-Docker-Architecture-Core.md.md",
     "Container-&-Cloud-Native-Security/02-Docker-command-cheetsheet.md",
-    "Container-&-Cloud-Native-Security/README.md.md",
-    "Untitled",
     "Container-&-Cloud-Native-Security",
     "TryHackme_Writeups",
     "Cybersec_Writeups/NPT/Assets/137.png",
