@@ -8,63 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "acd9254ef5182219",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CEH/Module-20-Cryptography/README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "a2efd81f133933a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Readme.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Readme"
-            }
-          },
-          {
-            "id": "0179cf841624c5d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Virtualization-Basics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01-Virtualization-Basics"
-            }
-          },
-          {
             "id": "f35d6d5eca1f1a2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02- The Linux File System Hierarchy (Hacker's Perspective) 📂☠️.md",
+                "file": "CEH/Module-08-Network-Sniffing/03-ARP-Spoofing-and-MITM.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02- The Linux File System Hierarchy (Hacker's Perspective) 📂☠️"
+              "title": "03-ARP-Spoofing-and-MITM.md"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,8 +183,10 @@
   },
   "active": "f35d6d5eca1f1a2f",
   "lastOpenFiles": [
-    "01-Virtualization-Basics.md",
+    "CEH/Module-08-Network-Sniffing/01-Sniffing-Foundations.md.md",
+    "CEH/Module-08-Network-Sniffing/README.md",
     "02- The Linux File System Hierarchy (Hacker's Perspective) 📂☠️.md",
+    "01-Virtualization-Basics.md",
     "Readme.md",
     "CEH/Module-20-Cryptography/README.md",
     "Linux-For-Offensive-Security",
@@ -248,13 +207,11 @@
     "CEH/Module-10-Denial-of-Service/README.md",
     "CEH/Module-11-Session-Hijacking/README.md",
     "CEH/Module-09-Social-Engineering/README.md",
-    "CEH/Module-08-Network-Sniffing/README.md",
     "CEH/Module-07_Malware-Threats/README.md",
     "CEH/Module-06_System_Hacking/Readme.md",
     "CEH/Module-05_Vulnerability Analysis/Readme.md",
     "CEH/Module-03_Scanning_Networks/Readme.md",
     "CEH/Module-02_Footprinting_and_Reconnaissance/Readme.md",
-    "CEH/Module-01_Introduction to Ethical Hacking/Readme.md",
     "Container-&-Cloud-Native-Security",
     "TryHackme_Writeups",
     "Cybersec_Writeups/NPT/Assets/137.png",
