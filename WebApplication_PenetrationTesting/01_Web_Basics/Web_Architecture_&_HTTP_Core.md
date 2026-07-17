@@ -27,8 +27,7 @@ HTTP (Hypertext Transfer Protocol) is a **stateless**, application-layer protoco
 ### 📨 2.1 HTTP Request Structure
 When intercepted via Burp Suite, a raw HTTP Request looks like this:
 
-```
-http
+``` http
 POST /login HTTP/1.1
 Host: target.com
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -59,9 +58,9 @@ username=admin&password=secret123
 
 The server’s answer back to the client:
 
-HTTP
 
-```
+
+``` http
 HTTP/1.1 200 OK
 Server: Nginx/1.18.0
 Content-Type: text/html
